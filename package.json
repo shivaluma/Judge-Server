@@ -1,0 +1,16 @@
+{
+  "name": "BrosJudge",
+  "version": "1.0.0",
+  "description": "BroJudge Server",
+  "main": "app.js",
+  "author": "Shiro",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
